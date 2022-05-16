@@ -4,7 +4,7 @@
 
     <groupId>com.leansoft</groupId>
     <artifactId>bigqueue</artifactId>
-    <version>0.7.3-copart-SNAPSHOT</version>
+    <version>0.7.3-copart</version>
     <packaging>jar</packaging>
 
     <name>bigqueue</name>
